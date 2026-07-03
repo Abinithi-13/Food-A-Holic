@@ -10,8 +10,6 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-
-console.log("Groq Key : ", process.env.GROQ_API_KEY );
 app.use("/api/recipe", recipeRoutes)
 
  const PORT = process.env.PORT
