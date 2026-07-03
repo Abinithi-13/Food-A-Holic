@@ -55,7 +55,8 @@ It features a **glass‑neumorphic UI**, elegant typography, and real‑time rec
 
 3. **Run the app**
    ```bash
-   npm start
+   npm start (in backend)
+   npm run dev (in frontend)
    ```
 
 4. **Open in browser**
@@ -75,7 +76,7 @@ It features a **glass‑neumorphic UI**, elegant typography, and real‑time rec
 
 ## 💬 Credits
 Developed by **Abinithi KB**  
-Guided by **Ascentz Technologies Internship (2026)**  
+Guided by **Webstack Academy Internship (2026)**  
 Design inspired by modern glass‑neumorphic UI trends.
 
 ---
